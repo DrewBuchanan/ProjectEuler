@@ -1,0 +1,6 @@
+D:\Desktop Documents Downloads oh my!\My Documents\GIT\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe.config
+D:\Desktop Documents Downloads oh my!\My Documents\GIT\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.exe
+D:\Desktop Documents Downloads oh my!\My Documents\GIT\ProjectEuler\ProjectEuler\bin\Debug\ProjectEuler.pdb
+D:\Desktop Documents Downloads oh my!\My Documents\GIT\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.csprojResolveAssemblyReference.cache
+D:\Desktop Documents Downloads oh my!\My Documents\GIT\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.exe
+D:\Desktop Documents Downloads oh my!\My Documents\GIT\ProjectEuler\ProjectEuler\obj\Debug\ProjectEuler.pdb
